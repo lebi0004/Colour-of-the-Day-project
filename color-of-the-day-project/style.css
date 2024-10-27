@@ -1,0 +1,53 @@
+
+.color {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.color-number {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #555;
+}
+
+.clear {
+    color: rgb(5, 75, 98);
+    background-color: rgb(195, 245, 245);
+    margin-bottom: 20px;
+    border-width: 1px;
+
+}
+
+.color-date {
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #555;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#get_color{
+    background-color: rgb(195, 245, 245);
+    color: rgb(5, 75, 98);
+    margin-left: 5px;
+    border-width: 1px;
+}
+
+h2 {
+    color:  rgb(5, 75, 98); ;
+}
+
+#date {
+    color:  rgb(26, 153, 167);
+}
